@@ -22,8 +22,8 @@
 
 | Project                       | Language   | Platform | Details                         | 
 | ----------------------------- |:----------:|:--------:|:-------------------------------:|
-| Simple Banking Application    | Java       | IDE      | A simple application that has multiple |
-                                                        | functionality such as creating a debit & credit account |
+| Simple Banking Application    | Java       | IDE      | A simple application that has multiple functionality such as creating a debit & credit account  |
+
 | Mobile Application            | Java       | Mobile   | |
 |      |    $1 |
 
