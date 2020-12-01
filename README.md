@@ -3,7 +3,7 @@
 -->
 
 ## Hello World 👋
-### Welcome to my area, this is the dream land called "Khai Phan"
+### Welcome to my dream land called "Khai Phan"
 
 - 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
 - 🌱 I’m currently learning about Java, specifically about Mobile Application
@@ -18,6 +18,15 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phanthanhkhai480&show_icons=true&theme=dracula)
 
 ### Project Detail
+##### (I am hoping to add more to this section as my work experience going on...)
+
+| Project                       | Language   | Platform | Details                         | 
+| ----------------------------- |:----------:|:--------:|:-------------------------------:|
+| Simple Banking Application    | Java       | IDE      | A simple application that has multiple |
+                                                        | functionality such as creating a debit & credit account|
+| Mobile Application            | Java       | Mobile   |
+|      |    $1 |
+
 
 
 
