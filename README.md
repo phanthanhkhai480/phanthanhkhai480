@@ -6,7 +6,7 @@
 ### Welcome to Khai Phan's portfolio
 
 <a target="_blank" href="mailto:phanthanhkhai480@gmail.com">
-  <img src='https://i.postimg.cc/vcSYxxN1/icon-email-material-design-512.png' border-spacing=20px width=50 length=50 alt='Email'/>
+  <img src='https://i.postimg.cc/vcSYxxN1/icon-email-material-design-512.png' border-spacing=50 width=50 length=50 alt='Email'/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/phanthanhkhai9/">
   <img src='https://i.postimg.cc/tYrTdMY4/social-linkedin-circle-512.png' border=20 width=50 length=50 alt='LinkedIn'/>
