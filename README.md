@@ -22,8 +22,8 @@
 
 | Project                       | Language   | Platform | Details                         | 
 | ----------------------------- |:----------:|:--------:|:-------------------------------:|
-| Simple Banking Application    | Java       | IDE      | A simple application that has multiple functionality such as creating a debit & credit account  |
-| Mobile Application            | Java       | Mobile   | |
+| Simple Banking Application    | Java       | IDE      | A simple application that has multiple functionality such as creating a debit & credit account, deposit and withdraw money, calculate compound interest and calculate tax/tax-free account. This application is most likely similar to interaction with an ATM machine, with less complicated function. Each functionality is written in a seperate method.  |
+| Travel Application            | Java       | Mobile   | An application that provide passengers some functionality such as creating an account for booking a flight & hotel, a calendar to record customer's activity (including bookings that has been booked via the app). To achieve that, a free-version of API was used and a json request link will send to the database, including filter option passenger customizes to refine the search.   |
 
 
 
