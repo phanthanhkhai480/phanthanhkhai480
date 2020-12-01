@@ -3,25 +3,23 @@
 -->
 
 ## Hello World 👋
-### Welcome to my dream land called "Khai Phan"
+### Welcome to Khai Phan's portfolio
 
 <a target="_blank" href="mailto:phanthanhkhai480@gmail.com">
-  <img align="left" alt="Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img src='https://i.postimg.cc/vcSYxxN1/icon-email-material-design-512.png' border='0' width='50' length='50' alt='Email'/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/phanthanhkhai9/">
-  <img align="left" alt="LinkedIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src='https://i.postimg.cc/tYrTdMY4/social-linkedin-circle-512.png' border='0' width='50' length='50' alt='LinkedIn'/>
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102">
-  <img align="left" alt="Whatsapp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img src='https://i.postimg.cc/0KPghPH1/social-whatsapp-circle-512.png' border='0' width='50' length='50' alt='WhatsApp'/>
 </a>
-<a href="https://www.facebook.com/phanthanh.khai.9" target='_blank'>
-  <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' border='0' width='50' length='50' alt='Facebook-Logo-2019'/>
+<a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
+  <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' border='0' width='50' length='50' alt='Facebook'/>
 </a>
 <a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
-  <img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src='https://i.postimg.cc/5jC6V37P/unnamed.png' border='0' width='50' length='50' alt='Instagram'/>
 </a>
-
-
 
 - 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
 - 🌱 I’m currently learning about Java, specifically about Mobile Application
@@ -31,7 +29,6 @@
 - ⚡ Fun fact: I hate coding....
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanthanhkhai480&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phanthanhkhai480&show_icons=true&theme=dracula)
 
