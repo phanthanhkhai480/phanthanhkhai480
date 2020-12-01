@@ -14,8 +14,8 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102">
   <img align="left" alt="Whatsapp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
-  <img align="left" alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/phanthanh.khai.9" target='_blank'>
+  <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' border='0' width='50' length='50' alt='Facebook-Logo-2019'/>
 </a>
 <a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
   <img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
