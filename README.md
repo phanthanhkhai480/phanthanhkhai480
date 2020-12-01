@@ -4,7 +4,24 @@
 
 ## Hello World 👋
 ### Welcome to my dream land called "Khai Phan"
-![alt text](https://github.com/phanthanhkhai480/phanthanhkhai480/blob/https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimple.wikipedia.org%2Fwiki%2FFacebook&psig=AOvVaw0nV9rnNo1M90NwVIPCvivf&ust=1606951425955000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPieydr2re0CFQAAAAAdAAAAABAD/image.jpg?raw=true)
+
+<a target="_blank" href="mailto:phanthanhkhai480@gmail.com">
+  <img align="left" alt="Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/phanthanhkhai9/">
+  <img align="left" alt="LinkedIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102">
+  <img align="left" alt="Whatsapp" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
+  <img align="left" alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
+  <img align="left" alt="Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
 
 - 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
 - 🌱 I’m currently learning about Java, specifically about Mobile Application
