@@ -2,7 +2,7 @@
 **phanthanhkhai480/phanthanhkhai480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hello World 👋
+## Hello World 👋
 ### Welcome to my area, this is the dream land called "Khai Phan"
 
 - 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
