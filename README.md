@@ -40,8 +40,6 @@
 ## Programming Language
 - 💻 I am most comfortable with all Back-End language. For Front-End, it is not really my strength but I can stil able to work on it
 
-| Category            | Programming Language
-| ------------------- |-------------------------------------------------------------- |
 | Back-End            | C, C++, Java, Shell Scripting, Python (in learning progress)  |
 | Front-End           | JavaScript, a little bit of Angular, NodeJS                   |
 | Operating System    | Windows 7/8/10, MacOS, Linux                                  |
@@ -49,6 +47,7 @@
 
 ## Other Skills
 - Please don't think Programmer only know programming TT.TT, we also trained to know some other skills to prepare for any environment, such as
+
 | -------------- |------------------------------------------------------------------------------------------------------------------------ |
 | Business       | Accounting, Business Working Environment, Marketing, Presentation skills and Writing Technical in Business.             |
 | Communication  | Critical Thinking and Writing, Communication in Organization, Law, Ethics and Responsibility, Multi-Media Presentation. |
