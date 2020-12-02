@@ -29,6 +29,7 @@
 - 💬 Ask me about Mobile Application, Android stuff
 - 📫 How to reach me: best way via Facebook, just below there
 - ⚡ Fun fact: I hate coding....
+- 📷 Favourite and Hobby: I love photographing, especially landscape photograph and aviation spotting. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanthanhkhai480&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
