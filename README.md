@@ -1,9 +1,7 @@
 <!--
 **phanthanhkhai480/phanthanhkhai480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 ## Hello World 👋
-### Welcome to Khai Phan's portfolio
 
 <a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
   <img src='https://i.postimg.cc/5jC6V37P/unnamed.png' align="right" width=50 length=50 alt='Instagram'/>
@@ -20,6 +18,8 @@
 <a target="_blank" href="mailto:phanthanhkhai480@gmail.com">
   <img src='https://i.postimg.cc/vcSYxxN1/icon-email-material-design-512.png' align="right" width=50 length=50 alt='Email'/>
 </a>
+### Welcome to Khai Phan's portfolio
+
 
 - 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
 - 🌱 I’m currently learning about Java, specifically about Mobile Application
