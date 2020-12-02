@@ -20,7 +20,7 @@
 </a>
 
 # Hello World 👋
-### Welcome to Khai Phan's portfolio
+## Welcome to Khai Phan's portfolio
 
 
 - 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
@@ -37,8 +37,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phanthanhkhai480&show_icons=true&theme=dracula)
 
 
-### Project Detail
-##### (I am hoping to add more to this section as my work experience going on...)
+## Project Detail
+###### (I am hoping to add more to this section as my work experience going on...)
 
 | Project                       | Language   | Platform | Details                         | 
 | ----------------------------- |:----------:|:--------:|---------------------------------|
