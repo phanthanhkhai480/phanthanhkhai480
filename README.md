@@ -49,6 +49,7 @@
 
 ## Other Skills
 - Please don't think Programmer only know programming TT.TT, we also trained to know some other skills to prepare for any environment, such as
+
 | Category       | Skills details                                                                                                          |
 | -------------- |------------------------------------------------------------------------------------------------------------------------ |
 | Business       | Accounting, Business Working Environment, Marketing, Presentation skills and Writing Technical in Business.             |
