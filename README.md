@@ -36,6 +36,17 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phanthanhkhai480&show_icons=true&theme=dracula)
 
+## Programming Language
+- 💻 I am most comfortable with all Back-End language. For Front-End, it is not really my strength but I can stil able to work on it
+| Back-End            | C, C++, Java, Shell Scripting, Python (in learning progress)  |
+| Front-End           | JavaScript, a little bit of Angular, NodeJS                   |
+| Operating System    | Windows 7/8/10, MacOS, Linux                                  |
+| Tools and Software  | MS Office, MS Visual Studio, IntellJ, Eclipse, Android Studio, FileZilla, Putty, Terminal Shell |
+
+## Other Skills
+- Please don't think Programmer only know programming TT.TT, we also trained to know some other skills to prepare for any environment, such as
+| Business       | Accounting, Business Working Environment, Marketing, Presentation skills and Writing Technical in Business. |
+| Communication  | Critical Thinking and Writing, Communication in Organization, Law, Ethics and Responsibility, Multi-Media Presentation. |
 
 ## Project Detail
 ###### (I am hoping to add more to this section as my work experience going on...)
