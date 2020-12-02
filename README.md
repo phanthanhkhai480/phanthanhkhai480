@@ -15,7 +15,7 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102">
   <img src='https://i.postimg.cc/0KPghPH1/social-whatsapp-circle-512.png' width=50 length=50 alt='WhatsApp'/>
 </a>
-<a target="_blank" onclick="window.open('https://www.facebook.com/phanthanh.khai.9', 'Facebook') return false;" >
+<a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
   <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' width=50 length=50 alt='Facebook'/>
 </a>
 <a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
