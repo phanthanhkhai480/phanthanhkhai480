@@ -39,6 +39,7 @@
 
 ## Programming Language
 - 💻 I am most comfortable with all Back-End language. For Front-End, it is not really my strength but I can stil able to work on it
+| Category            | Programming Language
 | ------------------- |-------------------------------------------------------------- |
 | Back-End            | C, C++, Java, Shell Scripting, Python (in learning progress)  |
 | Front-End           | JavaScript, a little bit of Angular, NodeJS                   |
