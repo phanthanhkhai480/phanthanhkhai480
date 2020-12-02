@@ -23,13 +23,14 @@
 ## Welcome to Khai Phan's portfolio
 
 
-- 🔭 I’m currently working for Canadian Imperial Bank of Commerce (CIBC) as an Application Developer
-- 🌱 I’m currently learning about Java, specifically about Mobile Application
-- 🤔 I’m looking for help with Mobile Application, especially for iOS
-- 💬 Ask me about Mobile Application, Android stuff
-- 📫 How to reach me: best way via Facebook, just below there
-- ⚡ Fun fact: I hate coding....
-- 📷 Favourite and Hobby: I love photographing, especially landscape photograph and aviation spotting. 
+- 🔭 Currently Working for the Canadian Imperial Bank of Commerce (CIBC) as an Application Developer.
+- 🌱 Learning Python 🐍.
+- 📱  Most comfortable with Java, specifically about Mobile Application.
+- 🤔 Looking to expand my knowledge in Mobile Application, especially iOS.
+- 💬 Ask me about Mobile Application, Android stuff.
+- 📫 How to reach me: best way via Facebook, just above there.
+- ⚡ Fun fact: I love listening to music while coding. Some people find it distracting, but for me, music will help me relax and focus less on the work so I can see more possible solutions. (*sound weird right, but it works*)
+- 📷 Favourite and Hobby: I love photographing, especially landscape photograph🧗‍ and aviation spotting✈️. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanthanhkhai480&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
