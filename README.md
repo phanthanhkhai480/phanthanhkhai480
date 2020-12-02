@@ -5,20 +5,19 @@
 ## Hello World 👋
 ### Welcome to Khai Phan's portfolio
 
-
-<a target="_blank" href="mailto:phanthanhkhai480@gmail.com">
+<a target="_blank" href="mailto:phanthanhkhai480@gmail.com" align="right">
   <img src='https://i.postimg.cc/vcSYxxN1/icon-email-material-design-512.png' width=50 length=50 alt='Email'/>
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/phanthanhkhai9/">
+<a target="_blank" href="https://www.linkedin.com/in/phanthanhkhai9/" align="right">
   <img src='https://i.postimg.cc/tYrTdMY4/social-linkedin-circle-512.png' width=50 length=50 alt='LinkedIn'/>
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102" align="right">
   <img src='https://i.postimg.cc/0KPghPH1/social-whatsapp-circle-512.png' width=50 length=50 alt='WhatsApp'/>
 </a>
-<a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
+<a target="_blank" href="https://www.facebook.com/phanthanh.khai.9" align="right">
   <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' width=50 length=50 alt='Facebook'/>
 </a>
-<a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
+<a target="_blank" href="https://www.instagram.com/phanthanh.khai/" align="right">
   <img src='https://i.postimg.cc/5jC6V37P/unnamed.png' width=50 length=50 alt='Instagram'/>
 </a>
 
