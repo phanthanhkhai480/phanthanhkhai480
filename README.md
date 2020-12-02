@@ -4,7 +4,7 @@
 ## Hello World 👋
 
 <a target="_blank" href="https://www.instagram.com/phanthanh.khai/">
-  <img src='https://i.postimg.cc/5jC6V37P/unnamed.png' align="right" width=50 length=50 alt='Instagram'/>
+  <img src='https://i.postimg.cc/5jC6V37P/unnamed.png' align="right" width=30 length=30 alt='Instagram'/>
 </a>
 <a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
   <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' align="right" width=50 length=50 alt='Facebook'/>
