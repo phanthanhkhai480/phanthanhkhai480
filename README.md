@@ -23,7 +23,7 @@
 ## Welcome to Khai Phan's portfolio
 
 
-- 🔭 Currently Working for the Canadian Imperial Bank of Commerce (CIBC) as an Application Developer.
+- 🔭 Currently working as an Application Developer.
 - 🌱 Learning Python 🐍.
 - 📱  Most comfortable with Java, specifically about Mobile Application.
 - 🤔 Looking to expand my knowledge in Mobile Application, especially iOS.
