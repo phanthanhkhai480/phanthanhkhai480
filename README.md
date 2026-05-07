@@ -9,7 +9,7 @@
 <a target="_blank" href="https://www.facebook.com/phanthanh.khai.9">
   <img src='https://i.postimg.cc/Sjyv0Tx4/Facebook-Logo-2019.png' align="right" width=40 length=40 alt='Facebook'/>
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=+14168240102">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+84789880879">
   <img src='https://i.postimg.cc/0KPghPH1/social-whatsapp-circle-512.png' align="right" width=40 length=40 alt='WhatsApp'/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/phanthanhkhai9/">
@@ -22,7 +22,7 @@
 # Hello World 👋
 ## Welcome to Khai Phan's portfolio
 
-
+- Certified in CompTIA ITF Pro, A+ & Network+.
 - 🔭 Currently working as an Application Developer.
 - 🌱 Learning Python 🐍.
 - 📱  Most comfortable with Java, specifically about Mobile Application.
