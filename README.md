@@ -33,7 +33,7 @@
 - 📷 Favourite and Hobby: I love photographing, especially landscape photograph🧗‍ and aviation spotting✈️. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanthanhkhai480&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=phanthanhkhai480&theme=shadow))](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phanthanhkhai480&show_icons=true&theme=dracula)
 
