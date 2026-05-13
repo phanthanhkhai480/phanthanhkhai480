@@ -33,9 +33,11 @@
 - 📷 Favourite and Hobby: I love photographing, especially landscape photograph🧗‍ and aviation spotting✈️. 
 
 
-[![Top Langs](![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=phanthanhkhai480&theme=shadow))](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phanthanhkhai480&show_icons=true&theme=dracula)
+
+<img src="https://streak-stats.demolab.com?user=phanthanhkhai480&theme=default&hide_border=true" alt="phanthanhkhai480's GitHub Stats" />
+<img src="https://ghstats.dev/api/langs?username=phanthanhkhai480&theme=nord" alt="Top Languages" />
+<img src="https://ghstats.dev/api/card?username=phanthanhkhai480&theme=nord" alt="GitHub Stats Card" />
 
 ## Programming Language
 - 💻 I am most comfortable with all Back-End language. For Front-End, it is not really my strength but I can stil able to work on it
